@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper__containter{
+    max-width: 1300px;
+    margin: 0 50px;
+    
+}
+.header__containter{
+    background-color: #f5b21a;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.header__head{
+    color: white;
+    padding: 10px;
+}
+.logo__icon{
+    width: 30px;
+    height: 40px;
+}
+.global__header__containter{
+    background-color: #f5b21a;
+    box-shadow: 1px 5px 5px rgba(0,0,0,0.3);
+}
